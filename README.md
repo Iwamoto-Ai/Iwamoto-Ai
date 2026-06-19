@@ -2,12 +2,15 @@
 
 <h1 align="center">
 **Iwamoto-Ai** <br>
-  </h1>
-  
- I am an AI software engineer, with a focus on Generative AI. <br><br>
- 
+</h1>
+
 <h2 align="center">
-Technologies and Languages </h2>
+ I am an AI software engineer, with a focus on Generative AI. <br><br>
+</h2>
+ 
+<h3 align="center">
+Technologies and Languages
+</h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -30,17 +33,14 @@ Technologies and Languages </h2>
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-<h3> + many more! </h3>
++ many more! <br><br>
 
 
-<h1>
-    <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Iwamoto-Ai&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwamoto-Ai&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
+<h1><a href="">
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Iwamoto-Ai&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+      <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwamoto-Ai&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+</a></h1>
+
 
 -------
 Credits: [Iwamoto-Ai](https://github.com/Iwamoto-Ai)
-
-Last Edited on: 19/06/2026
-
