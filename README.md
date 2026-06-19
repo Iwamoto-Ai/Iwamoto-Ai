@@ -1,7 +1,10 @@
 [![Header](https://github.com/Iwamoto-Ai/Iwamoto-Ai/raw/master/profile.gif)](https://github.com/Iwamoto-Ai/)
 
-**Iwamoto-Ai/Iwamoto-Ai**
- I'm a software developer about open-source projects.
+<h1 align="center">
+**Iwamoto-Ai** <br>
+  </h1>
+  
+ I'm a software developer about open-source projects. <br>
  
 <h2 align="center">
 Technologies and Languages </h2>
