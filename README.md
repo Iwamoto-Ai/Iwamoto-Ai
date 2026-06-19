@@ -1,7 +1,7 @@
 [![Header](https://github.com/Iwamoto-Ai/Iwamoto-Ai/raw/master/profile.gif)](https://github.com/Iwamoto-Ai/)
 
 <h1 align="center">
-**Iwamoto-Ai** <br>
+** Iwamoto-Ai ** <br>
 </h1>
 
 <h2 align="center">
@@ -30,9 +30,8 @@ Technologies and Languages
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+
 + many more! <br><br>
 
 
