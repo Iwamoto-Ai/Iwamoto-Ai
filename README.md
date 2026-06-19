@@ -4,7 +4,7 @@
 **Iwamoto-Ai** <br>
   </h1>
   
- I'm a software developer about open-source projects. <br>
+ I am an AI software engineer, with a focus on Generative AI. <br><br>
  
 <h2 align="center">
 Technologies and Languages </h2>
