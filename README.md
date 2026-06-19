@@ -1,7 +1,5 @@
 [![Header](https://github.com/Iwamoto-Ai/Iwamoto-Ai/raw/master/profile.gif)](https://github.com/Iwamoto-Ai/)
 
-[![github.com/Iwamoto-Ai/](https://img.shields.io/badge/-Iwamoto-Ai-000000?style=for-the-badge&logo=react&logoColor=white)]([https://www.adamalston.com/](https://github.com/Iwamoto-Ai/))
-
 **Iwamoto-Ai/Iwamoto-Ai**
  I'm a software developer about open-source projects.
  
