@@ -4,6 +4,8 @@
 ** Iwamoto-Ai ** <br>
 </h1>
 
+<a href="index.html"><img src="images/BG_01.png" width="400" height="400" alt="Iwamoto-Ai"></a></p><br>
+
 <h2 align="center">
  I am an AI software engineer, with a focus on Generative AI. <br>
  私は「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア です。<br>
