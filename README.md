@@ -4,7 +4,7 @@
 ** Iwamoto-Ai ** <br>
 </h1>
 
-<a href="README.md"><img src="images/background_01.png" width="400" height="400" alt="Iwamoto-Ai"></a></p><br>
+<a href="README.md"><img src="images/background_01.png" align="center" width="700" height="400" alt="Iwamoto-Ai"></a></p><br>
 
 <h2 align="center">
  I am an AI software engineer, with a focus on Generative AI. <br>
