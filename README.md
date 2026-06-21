@@ -5,7 +5,8 @@
 </h1>
 
 <h2 align="center">
- I am an AI software engineer, with a focus on Generative AI. <br><br>
+ I am an AI software engineer, with a focus on Generative AI. <br>
+ 私は「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア です。<br>
 </h2>
  
 <h3 align="center">
