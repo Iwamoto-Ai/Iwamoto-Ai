@@ -1,15 +1,15 @@
-[![Header](https://github.com/Iwamoto-Ai/Iwamoto-Ai/raw/master/profile.gif)](https://github.com/Iwamoto-Ai/)
-
-<img src="images/background_01.png" alt="Iwamoto-Ai" title="Iwamoto-Ai" width="700" height="200">
+<div style="text-align: center">
+  <img src="images/Iwamoto-Ai_01.png">
+</div>
 
 <h2 align="center">
- ** Iwamoto-Ai ** <br>
- I am an AI software engineer, with a focus on Generative AI. <br>
- 私は「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア です。<br>
+   ** Iwamoto-Ai ** <br>
+   I am an AI software engineer, with a focus on Generative AI. <br>
+   私は「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア です。<br>
 </h2>
  
 <h3 align="center">
-Technologies and Languages
+  Technologies and Languages
 </h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
