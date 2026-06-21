@@ -1,12 +1,9 @@
 [![Header](https://github.com/Iwamoto-Ai/Iwamoto-Ai/raw/master/profile.gif)](https://github.com/Iwamoto-Ai/)
 
-<h1 align="center">
-** Iwamoto-Ai ** <br>
-</h1>
-
-<a href="README.md"><img src="images/background_01.png" align="center" width="700" height="200" alt="Iwamoto-Ai"></a></p><br>
+<img src="images/background_01.png" alt="Iwamoto-Ai" title="Iwamoto-Ai" width="700" height="200">
 
 <h2 align="center">
+ ** Iwamoto-Ai ** <br>
  I am an AI software engineer, with a focus on Generative AI. <br>
  私は「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア です。<br>
 </h2>
