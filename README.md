@@ -33,7 +33,7 @@ Technologies and Languages
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-+ many more! <br><br>
++ many more <br><br>
 
 
 <h1><a href="">
@@ -43,4 +43,4 @@ Technologies and Languages
 
 
 -------
-Credits: [Iwamoto-Ai](https://github.com/Iwamoto-Ai)
+Credits: Tsuyoshi Iwamoto , [Iwamoto-Ai](https://github.com/Iwamoto-Ai)
