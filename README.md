@@ -5,7 +5,7 @@
 <h3 align="center">
    ** Iwamoto-Ai ** <br>
    I am an AI software engineer, with a focus on Generative AI. <br>
-   私は「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア です。<br>
+   「生成ＡＩ」に注力している ＡＩソフトウェア エンジニア<br>
 </h3>
  
 <h3 align="center">
